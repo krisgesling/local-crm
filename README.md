@@ -3,7 +3,7 @@ A basic CRM for use in restricted Windows environments that uses local files for
 
 ## To do
 - [x] File reading
-- [ ] File writing
+- [x] File writing
 - [ ] Map out data structure
 - [ ] Display sample contact
 - [ ] Write new contact
